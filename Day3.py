@@ -1,0 +1,2 @@
+puzzle_input=265149
+print(puzzle_input)
